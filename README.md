@@ -1,2 +1,2 @@
 # staffnsword
-Play casual games for free
+Play casual open source games

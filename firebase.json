@@ -16,16 +16,9 @@
       "**/.*",
       "**/node_modules/**"
     ],
-    "redirect": [
-      {
-        "source": "/",
-        "destination": "/home",
-        "type": 301
-      }
-    ],
     "rewrites": [
       {
-        "source": "/home/**",
+        "source": "/",
         "destination": "/home/index.html"
       }
     ]
